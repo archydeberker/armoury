@@ -8,3 +8,6 @@
 ## Regression
 - [ ] Flavours of regression
 - [ ] Random forest regression
+
+## Discrete
+- [ ] Genetic algorithms
