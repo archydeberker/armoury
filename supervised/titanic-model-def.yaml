@@ -1,0 +1,31 @@
+input_features:
+    -
+        name: pclass
+        type: category
+    -
+        name: sex
+        type: category
+    -
+        name: age
+        type: numerical
+        preprocessing:
+          missing_value_strategy: fill_with_mean
+    -
+        name: sibsp
+        type: numerical
+    -
+        name: parch
+        type: numerical
+    -
+        name: fare
+        type: numerical
+        preprocessing:
+          missing_value_strategy: fill_with_mean
+    -
+        name: embarked
+        type: category
+
+output_features:
+    -
+        name: survived
+        type: binary
