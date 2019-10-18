@@ -10,10 +10,10 @@ You can run all of these notebooks via Binder, who kindly provide a hosted envir
 
 ## [explainability](./dimensionality-reduction)
 - [permutation-sensitivity](./dimensionality-reduction/permutation-sensitivity.ipynb)
-- [captum](./dimensionality-reduction/captum.ipynb)
+- [captum](./dimensionality-reduction/captum.ipynb): an explainability library for Pytorch from Facebook
 
 ## [supervised](./supervised)
-Nothing to see yet.
+- [ludwig](./supervised/uber-ludwig.ipynb): a CLI for quickly training supervised models from Uber
 
 ## [unsupervised](./unsupervised)
 - [clustering](./unsupervised/clustering.ipynb) 
