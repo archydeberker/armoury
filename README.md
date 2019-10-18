@@ -3,6 +3,10 @@ Examples of tools and algorithms I think are useful, with worked examples and no
 
 I add things here when I'm learning them or explaining them to somebody. I'm also infrequently working on more interactive explanations of core ML principles in [intuitive-ml](https://github.com/archydeberker/intuitive-ml).
 
+You can run all of these notebooks via Binder: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/archydeberker/armoury/master)
+
 ## [dimensionality-reduction](./dimensionality-reduction)
 - [PCA](./dimensionality-reduction/WIP-principal-component-analysis-PCA.ipynb)
 
